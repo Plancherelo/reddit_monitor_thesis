@@ -10,8 +10,6 @@ from umap import UMAP
 from hdbscan import HDBSCAN
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
-from gensim.corpora import Dictionary
-from gensim.models import CoherenceModel
 import random
 import torch
 import re

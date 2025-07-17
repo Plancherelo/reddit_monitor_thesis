@@ -29,6 +29,12 @@ Run the following command to install all necessary dependencies:
 pip install pandas asyncpraw asyncprawcore nltk sentence-transformers scikit-learn umap-learn hdbscan bertopic torch
 ```
 
+Alternatively, to ensure full reproducibility of the experimental environment you can install the exact library versions specified in the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ### 2. Configure Reddit API credentials
