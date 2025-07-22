@@ -71,6 +71,8 @@ Applies BERTopic to generate and analyze discussion topics.
 All input and output datasets are saved in the `data/` directory.  
 Final datasets include enriched information such as sentiment scores and topic assignments, available in both `.parquet` and `.csv` formats.
 
+**Note**: All datasets used and generated throughout this study are available at the following link: [Google Drive - Master Thesis Datasets](https://drive.google.com/drive/folders/1M95xPYC7oG3o6YoPP7lU39wOGln3mhun?usp=sharing)
+
 ---
 
 ### 6. Testing
